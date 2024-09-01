@@ -1,8 +1,3 @@
-# React + Vite
+# react-memory-game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A fun and interactive memory game built with React.js, featuring a set of emoji cards that shuffle randomly on every game start. Match pairs of cards to solve the puzzle, and celebrate your win with confetti animations! This project demonstrates state management with React hooks, dynamic card flipping, and matching logic.
